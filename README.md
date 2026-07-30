@@ -14,10 +14,8 @@ Estudante de Análise e Desenvolvimento de Sistemas na FIAP, construindo com Jav
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=angeloromano3&show_icons=true&hide_border=true&bg_color=16161a&title_color=00E5C7&icon_color=FF3D81&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeloromano3&layout=compact&hide_border=true&bg_color=16161a&title_color=00E5C7&text_color=c9d1d9" />
-</p>
+<img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=angeloromano3&show_icons=true&hide_border=true&bg_color=16161a&title_color=00E5C7&icon_color=FF3D81&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=angeloromano3&layout=compact&hide_border=true&bg_color=16161a&title_color=00E5C7&text_color=c9d1d9" />
 
 ---
 
